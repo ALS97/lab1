@@ -83,12 +83,14 @@
         width:200px;
         float:left;
         background-color: navy;
+        line-height: 600px;
     }
     #c{
         height:200px;
         width:380px;
         float:left;
         background-color: tomato;
+        line-height: 200px;
     }
     #d{
         height:200px;
@@ -96,6 +98,7 @@
         float:right;
         margin:0px;
         background-color: slateblue;
+        line-height: 200px;
     }
     #e{
         height:250px;
@@ -104,6 +107,7 @@
         margin:0px;
         padding:0px;
         background-color: seagreen;
+        line-height: 250px;
        
         
     }
@@ -114,6 +118,7 @@
         float:left;
         padding: 0px;
         background-color: saddlebrown;
+        line-height: 250px;
         
     }
     #g{
@@ -121,17 +126,20 @@
         width:190px;
         float:left;
         background-color: violet;
+        line-height: 250px;
     }
     #h{
         height:250px;
         width:190px;
         background-color: yellow;
+        line-height: 250px;
     }
     #i{
         height:150px;
         width:760px;
         border: black solid 2px;
         background-color: lawngreen;
+        line-height: 150px;
 
     }
 }
